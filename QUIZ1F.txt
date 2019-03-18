@@ -1,0 +1,19 @@
+Asus P5GC/ Error
+ - PC won't boot to BIOS
+ 
+ - Possible causes:
+ 1.Faulty RAM
+  -Make sure it is properly seated.
+  -Try transferring to another slot or rotate it.
+  -Replace it.
+ 2.Faulting PCI cards
+  -Check if the power supply gives the right voltage through a regulator.
+ 3.Misplaced front panel connectors.
+  -see to it that the connectors are properly placed and connected.
+ 4. Missing Power supply cables.
+  -Check the 24 pin ATX cable & the 4-pin or 8 pin CPU connector.
+  -Make sure the cables are properly connected.
+ 5. The CPU is dead.
+  -Replace the CPU.
+ 6. The PSU is not working properly.
+  -Replace it with a working one.
