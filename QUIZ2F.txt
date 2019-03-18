@@ -1,0 +1,8 @@
+How did the Rasp Pi Work?
+
+-Upon troubleshooting the raspberry Pi that was not functional,
+we observed that the charger we used was'nt compatible with the raspberry Pi B, 
+it's because the model B uses between 1000 mA depending on what components or peripherals are 
+connected to it, since we suspected that the charger that is not compatible to the
+rasp pi is the one causing the trouble, we connected another charger that is right or 
+appropriate and compatible to the model and luckily, it functioned well and worked properly.
